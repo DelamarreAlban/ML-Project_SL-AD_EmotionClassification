@@ -15,8 +15,10 @@ To apply SVM to the dataset, the following program is required:
  * ML-Project_SL-AD_SVM.ipynb
 
 To apply CNNs to the dataset, the following programs are required:
+
 For Emotion Detection Directly from Images:
  * ML-Project_SL-AD_EMO-CNN.ipynb
+
 For AU Detection Directly from Images Before Detecting AUs:
  * ML-Project_SL-AD_AU2EMO-CNN.ipynb
 

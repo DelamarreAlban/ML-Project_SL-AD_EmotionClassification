@@ -4,7 +4,10 @@ CAP5610: Machine Learning
 Fall 2018
 
 ## Objective
-Using a dataset called the Extended Cohn-Kanade Dataset (CK+), we used machine learning for the analysis of 593 sequence images taken across 123 subjects to identify the target emotional category depicted by the faces in the image. The emotion categories assessed include seven potential outcomes, specifically anger, contempt, disgust, fear, happy, sadness, and surprise. Using Support Vector Machine (SVM), Convolutional Neural Networks (CNN), and Transfer Learning with Inception-v3, we aim to obtain accuracy similar to related image work in the field, on the CK+ dataset. 
+Using a dataset called the Extended Cohn-Kanade Dataset (CK+), we used machine learning for the analysis of 593 sequence images taken across 123 subjects to identify the target emotional category depicted by the faces in the image. The emotion categories assessed include seven potential outcomes, specifically anger, contempt, disgust, fear, happy, sadness, and surprise. Using Support Vector Machine (SVM), Convolutional Neural Networks (CNN), and Transfer Learning with Inception-v3, we aim to obtain accuracy similar to related image work in the field, on the CK+ dataset.
+
+## Dataset
+The CK+ dataset is available [here](http://www.pitt.edu/~emotion/ck-spread.htm)
 
 ## Files Included
 For preprocessing, the following programs are required:
